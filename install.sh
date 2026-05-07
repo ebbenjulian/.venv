@@ -5,7 +5,7 @@ clear
 
 echo "======================================"
 echo "   NextStage Environment Installer"
-echo "      Designed by IStoleYourKill"
+echo "      Designed by Julian Ebben"
 echo "======================================"
 echo ""
 
